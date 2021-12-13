@@ -15,6 +15,5 @@ https://www.youtube.com/watch?v=ijUMKMC4f9I <br>
 https://nlp.stanford.edu/IR-book/pdf/16flat.pdf <br>
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.fcluster.html <br>
 https://scikit-learn.org/stable/modules/clustering.html <br>
-# Who Do These Codes Belong To?
-All of these Codes belong to Sentdex. Thanks Senddex.
+
 
